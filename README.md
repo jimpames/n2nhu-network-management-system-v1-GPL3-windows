@@ -1,5 +1,14 @@
 <div align="center">
 
+24 apr 26   installers and binaries coming soon
+
+demo videos
+
+https://youtu.be/uZA-syheo3E
+
+https://youtu.be/dcGKuFYmUBw
+
+
 # N2NHU NMS
 
 **A self-hosted remote monitoring and management platform for Windows networks.**
